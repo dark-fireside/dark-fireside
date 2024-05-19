@@ -5,7 +5,7 @@ draft: false
 series: "theory"
 tags: ["FDT"]
 warnings: "Implied abuse and neglect, family death."
-author: "[robin](/rgbfireside/about#robin)"
+author: robin
 ---
 
 hi! welcome to post number one. we're new here. don't expect anything and we'll get along just fine. barring that, expect everything.
