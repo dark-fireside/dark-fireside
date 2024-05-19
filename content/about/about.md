@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: 'General'
 date: 2024-05-19T11:29:53-05:00
 draft: false
 ---
