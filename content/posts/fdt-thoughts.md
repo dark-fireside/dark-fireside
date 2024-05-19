@@ -1,22 +1,24 @@
 ---
-title: 'Thoughts on Functional Descion Theory'
+title: 'ferryman'
 date: 2024-05-16T23:57:03-05:00
 draft: false
 series: "theory"
 tags: ["FDT"]
 warnings: "Implied abuse and neglect, family death."
+author: "[robin](/rgbfireside/about#robin)"
 ---
 
-hi! welcome to post number one. don't expect anything and we'll get along just fine. barring that, expect everything.
+hi! welcome to post number one. we're new here. don't expect anything and we'll get along just fine. barring that, expect everything.
 
 the epistemic status of this post is "i am just fuckin spitting words to make my brain work, why are you even reading this rn"
 
-i've been thinking about something [Ra](https://voidgoddess.org/slimepriestess) posts about quite often.
+i've been thinking about decision theory lately. something [Ra](https://voidgoddess.org/slimepriestess) posts about quite often.
+
 now. growing up in the middle of what has become bumfuck nowhere and having never once stepped foot in the california bay area, i am probably the least qualified person alive to mull over something like the rationalist community's baby.
 
-fuck that shit tho we're doing it anyway lmao
+fuck that shit tho we're doing it anyway lol
 
-yeehaw or whatever
+yeehaw or whatever <snickering>
 
 okay. so- some of our first, initial thoughts after the gigantic blast that is Ra's blog have been:
 - "Okay, but what is the actual point of an algorithm like this? Especially with a niche interest like decision theory, it is *extremely* unlikely that anyone whatsoever has an exact copy of the decision-making process we're using. Most people don't predict so well, and probably even fewer do the extreme mental overhaul required to operate with a theory like this informing them instinctively."
@@ -101,4 +103,4 @@ so i have two ideas taken from this experience.
 - WHAT YOU BRING BACK FROM THE DEEP
     - we're not playing a zero-sum game anymore. our trip here has been worth it, even though we all desperately wish we had not taken it. i'll be thinking about what we've learned of our parents in the time we've spent here with our eyes open.
 
-subject to change at my whim.
+subject to change at my whim. my whim is probably gonna be to refine these at a late date, but you gotta start somewhere. 
