@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "poison"
 paginate = 10
 # canonifyURLs = true
-# pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
@@ -22,7 +22,7 @@ paginate = 10
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "about/", HasChildren = true, Limit = 4},
+        {Name = "About", URL = "about/", HasChildren = false},
         {Name = "Posts", URL = "posts/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 
