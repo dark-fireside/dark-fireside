@@ -18,7 +18,9 @@ now. growing up in the middle of what has become bumfuck nowhere and having neve
 
 fuck that shit tho we're doing it anyway lol
 
-yeehaw or whatever <snickering>
+*snickering*
+
+yeehaw or whatever 
 
 okay. so- some of our first, initial thoughts after the gigantic blast that is Ra's blog have been:
 - "Okay, but what is the actual point of an algorithm like this? Especially with a niche interest like decision theory, it is *extremely* unlikely that anyone whatsoever has an exact copy of the decision-making process we're using. Most people don't predict so well, and probably even fewer do the extreme mental overhaul required to operate with a theory like this informing them instinctively."

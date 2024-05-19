@@ -18,10 +18,10 @@ me! the person who wrote the section you just read!
 blue.
 
 ### sath
-<placeholder text for when they end up writing something>
+{ placeholder text for when they end up writing something }
 red.
 
 ### Kat
-<placeholder for when she ends up writing something>
+{ placeholder for when she ends up writing something }
 green.
 
