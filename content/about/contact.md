@@ -1,0 +1,22 @@
+---
+title: 'Contact'
+date: 2024-05-20T20:14:58-05:00
+draft: true
+---
+
+you can email me at {name-of-the-website}, at a gmail account.
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZkv0RhYJKwYBBAHaRw8BAQdAxXiwpAhis0R0yUe62vvzOszMWmyjVQPP0wYH
+2QWfoV+0RWhlYXJ0aCAobWFraW5nIGNvbXBsaWNpdHkgbXkgZW5lbXkgc2luY2Ug
+dD0wKSA8cmdiZmlyZXNpZGVAZ21haWwuY29tPoiZBBMWCgBBFiEE1orC/Aae2kdV
+2DCqAcGIUfwjdccFAmZL9EYCGwMFCQlmAYAFCwkIBwICIgIGFQoJCAsCBBYCAwEC
+HgcCF4AACgkQAcGIUfwjdccYAgEAsIR3VhXFeBScHXTkYFQyZicZoCBk9hMwFF4e
+QogjUmQBAMoWXJfV0JenaJsVU5s+0BSH3/s5MforSuToovRgUxQFuDgEZkv0RhIK
+KwYBBAGXVQEFAQEHQNfrCSLrHj10v5cgBFSwtcalINsaPqI5wiMI2w2ptJcxAwEI
+B4h+BBgWCgAmFiEE1orC/Aae2kdV2DCqAcGIUfwjdccFAmZL9EYCGwwFCQlmAYAA
+CgkQAcGIUfwjdccGygD/eyKGSqO1Jl0zkWarVMl6eWZj4TK0/npimMOxR8TYDZsA
+/0/KN9nGjsYbD856FTLFQYVhZnzSyHJHG+iezJRCNlwA
+=0Pjp
+-----END PGP PUBLIC KEY BLOCK-----

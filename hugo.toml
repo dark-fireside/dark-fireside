@@ -28,14 +28,14 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
     # Links to your socials.  Comment or delete any you don't need/use. 
     # discord_url = "https://discord.com"
-    email_url = "mailto:/rgb.fireside@proton.me"
+    email_url = "/rgbfireside/about/contact/"
     # facebook_url = "https://facebook.com"
     # flickr_url = "https://flickr.com"
     # github_url = "https://github.com"
     # gitlab_url = "https://gitlab.com"
     # instagram_url = "https://instagram.com"
     # linkedin_url = "https://linkedin.com"
-    mastodon_url = "https://cathode.church/@krlhBlupine"
+    # mastodon_url = ""
     # matrix_url = "https://matrix.org"
     # telegram_url = "https://telegram.org"
     # tryhackme_url = "https://tryhackme.com"
