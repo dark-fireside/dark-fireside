@@ -1,5 +1,5 @@
 ---
-title: 'Contact'
+title: 'contact'
 date: 2024-05-20T20:14:58-05:00
 draft: true
 ---
