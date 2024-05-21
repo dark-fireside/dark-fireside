@@ -1,7 +1,7 @@
 ---
 title: 'contact'
 date: 2024-05-20T20:14:58-05:00
-draft: true
+draft: false
 ---
 
 you can email us at {name-of-the-website}, at a gmail account.
