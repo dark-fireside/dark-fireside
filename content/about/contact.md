@@ -6,7 +6,7 @@ draft: false
 
 you can email us at {name-of-the-website}, at a gmail account.
 
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xjMEZkwCzRYJKwYBBAHaRw8BAQdAlZE+sIbE9lvdgwdEUD9Dxr5MQ3IxQrq8f903
@@ -21,3 +21,4 @@ CRDc61nGy2tj6yHjAP9KJ5qBBLg1wqrNfVZcbbnlfMm/tchym5RCQMzg9b+aSAEA
 =7jwJ
 
 -----END PGP PUBLIC KEY BLOCK-----
+```
