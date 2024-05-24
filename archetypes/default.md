@@ -1,5 +1,9 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
+title: '{{ replace .Name "-" " " | lower }}'
 date: {{ .Date }}
 draft: true
+series:
+tags:
+warnings:
+author:
 ---
