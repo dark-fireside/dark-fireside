@@ -12,6 +12,8 @@ this is probably going to be a pretty mixed bag, and include a lot of stumbling 
 
 we intend on making something coherent when we sort ourselves out, but we're playing catch-up right now.
 
+you can support us on [our ko-fi.](https://ko-fi.com/rgbfireside)
+
 ## about the authors
 three different means to the same end.
 colors have jackall to do with [fusion](https://voidgodess.com/void#fusion) (we think?), they're just useful shorthand we've had around basically forever. 
