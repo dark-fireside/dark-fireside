@@ -38,3 +38,7 @@ And that relationship seems- a little more like a division of labor and less lik
 
 Now maybe this doesn't get spoken about because it's bad praxis. I kinda get that. I prefaced this for a reason- it's easier to say "all animal products are deontologically bad, normie. we live in an oppressive machine" and move on with your life. Cause the people who can figure things out are going to anyway, and the folks who were gonna be on the fence will take every chance to 5&10 themselves into oblivion. hell, maybe that's what i'm doing now. (i'd like to think i'm pretty good at this whole introspection thing by this point, but there's always a chance i'm full of it i guess.)
 but i dunno. i want to define my ideology on its own terms, and not have to bootstrap via photonegative carnism, i guess. conceive of something without domination as a reference point.
+
+> EDIT!
+> I have remembered I can't set up the comment engine until i have more than four cents in my bank account. 
+> Email us at rgbfireside AT gmail (preferably with out pgp key found in the contact section) if you want to add to this.
