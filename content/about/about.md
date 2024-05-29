@@ -1,20 +1,9 @@
 ---
-title: 'general'
+title: 'the authors'
 date: 2024-05-19T11:29:53-05:00
 draft: false
 ---
 
-## about the website
-hi! we're hearth. system thing. known creature. burgeoning magician. [shameless thief](https://voidgoddess.com)
-(basically running away cackling, with an entire way of looking at the world strapped to my back. i swear I arrived at my header image completely independently though).
-
-this is probably going to be a pretty mixed bag, and include a lot of stumbling around in the dark. course if you're reading me you probably signed up for that in the first place.
-
-we intend on making something coherent when we sort ourselves out, but we're playing catch-up right now.
-
-you can support us on [our ko-fi.](https://ko-fi.com/rgbfireside)
-
-## about the authors
 three different means to the same end.
 colors have jackall to do with [fusion](https://voidgodess.com/void#fusion) (we think?), they're just useful shorthand we've had around basically forever. 
 
