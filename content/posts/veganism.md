@@ -41,4 +41,4 @@ but i dunno. i want to define my ideology on its own terms, and not have to boot
 
 > EDIT!
 > I have remembered I can't set up the comment engine until i have more than four cents in my bank account. 
-> Email us at rgbfireside AT gmail (preferably with our pgp key found in the contact section) if you want to add to this.
+> Email us [here](/about/contact) (preferably with our pgp key found in the contact section) if you want to add to this.
