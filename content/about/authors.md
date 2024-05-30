@@ -52,7 +52,7 @@ still looking for a better name for it. structure we stole and modified in the p
 2. everything ziz ever published on sinceriously
 3. everything nis ever published on nis
 
-points to [new horizons](https://voidgoddess.org/multiverse).
+points to [new horizons](https://voidgoddess.org/kaleidoscope).
 feels like dark magic and the bottomless
 
 ### auta
