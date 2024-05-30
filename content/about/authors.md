@@ -27,7 +27,10 @@ blue (picture a clear sky at midnight, a rent in the air with billions of stars 
 red.
 
 ### K
-Hi, I'm called Kat. In our internal canon I'm a fae creature, though I'm told that has different connotations here. Here, I'm an author, ecologist, anarchist, and witch. She/Her.
+Hi, I'm called Kat. In our internal canon I'm a fae creature, though I'm told that has different connotations here.
+> robin, editing: HAH! read the index again. might actually legit be fae, at least by ra's ontology, and remembering our history.
+
+Here, I'm an author, ecologist, anarchist, and witch. She/Her.
 green. Picture a lone elm in the midst of a clearing in the woods. Tall, swaying grass, distant music. patience, understanding, solitude. I find most people really can't help but tell me things.
 
 ## the colors
