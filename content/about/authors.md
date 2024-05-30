@@ -4,8 +4,8 @@ date: 2024-05-19T11:29:53-05:00
 draft: false
 ---
 
-~three different means to the same end.~
-~colors have jackall to do with [fusion](https://voidgodess.com/void#fusion) (we think?), they're just useful shorthand we've had around basically forever.~ 
+~~three different means to the same end.~~
+~~colors have jackall to do with [fusion](https://voidgodess.com/void#fusion) (we think?), they're just useful shorthand we've had around basically forever.~~ 
 
 update:
 now that we understand a little more about what fusion is and how it works, i can confidently say that it's actually not as far off as we thought. i think we have something like three main layers of structure that have something to do with identity.
