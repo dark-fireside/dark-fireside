@@ -3,7 +3,7 @@ title: 'direction'
 date: 2024-05-28T22:53:02-05:00
 draft: false
 series: meta
-tags: WIP
+tags: ['WIP',]
 warnings:
 author: robin, sath
 ---
