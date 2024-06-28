@@ -1,3 +1,6 @@
 [submodule "themes/poison"]
 	path = themes/poison
 	url = https://github.com/rgbfireside/poison
+[submodule "themes/themes/poison"]
+	path = themes/themes/poison
+	url = git@github.com:rgbfireside/poison
