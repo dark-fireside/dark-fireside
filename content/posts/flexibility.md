@@ -1,7 +1,7 @@
 ---
 title: 'narrative flexibility and structural scar tissue'
 date: 2024-07-10T17:26:16-05:00
-draft: true
+draft: false
 series: "void"
 tags: "glossary"
 author: sath
