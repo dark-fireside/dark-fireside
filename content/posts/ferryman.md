@@ -2,7 +2,7 @@
 title: 'ferryman'
 date: 2024-05-16T23:57:03-05:00
 draft: false
-series: "theory"
+series: "mind"
 tags: ["FDT"]
 warnings: "Implied abuse and neglect, family death."
 author: robin
