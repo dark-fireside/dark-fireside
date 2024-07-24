@@ -2,7 +2,7 @@
 title: 'veganism, ideology'
 date: 2024-05-23T14:48:54-05:00
 draft: false
-series: "theory"
+series: ""
 tags: ["vegan","consequentialism"]
 warnings: "discussion of animal abuse and murder"
 author: "Kat, robin."
