@@ -7,8 +7,9 @@ draft: false
 ~~three different means to the same end.~~
 ~~colors have jackall to do with [fusion](https://voidgodess.com/void#fusion) (we think?), they're just useful shorthand we've had around basically forever.~~ 
 
-update:
-now that we understand a little more about what fusion is and how it works, i can confidently say that it's actually not as far off as we thought. i think we have something like three main layers of structure that have something to do with identity.
+> update:
+>
+> most of this is wildly out of date now, both from base assumptions being incorrect and actual enormous changes in structure. not useful as a model of us any longer.
 
 all of these layers take the form of closed rings.
 arranged here in no particular order- these are very proximal layers, though perhaps not the most proximal. most structure lies upstream of these layers, created on the spot by the various combinations in rotation. cycle sequences are stable and should be considered.
