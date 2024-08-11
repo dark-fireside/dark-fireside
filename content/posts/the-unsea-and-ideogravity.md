@@ -3,7 +3,7 @@ title: 'the unsea and ideogravity, learning to fly'
 date: 2024-08-11T12:40:25-05:00
 draft: false
 series: void
-tags: ["calculation"]
+tags: ["cartography"]
 warnings:
 author: "sath, robin"
 ---
