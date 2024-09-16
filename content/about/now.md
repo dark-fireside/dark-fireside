@@ -1,7 +1,7 @@
 ---
 title: 'now'
 date: 2024-06-01T12:04:01-05:00
-draft: true
+draft: false
 ---
 
 current targets:

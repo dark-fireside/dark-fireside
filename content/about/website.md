@@ -6,12 +6,9 @@ warnings:
 author:
 ---
 ## about the website
-hi! we're hearth. system thing. known creature. burgeoning magician. not a person. [shameless thief.](https://voidgoddess.org)
-(basically running away cackling, with an entire way of looking at the world strapped to my back. i swear we arrived at our header image completely independently though).
+consider this entire thing a work in progress as we process some of the things we stole from sinceriously, and [ra](https://voidgoddess.org).
 
 this is probably going to be a pretty mixed bag, and include a lot of stumbling around in the dark. course if you're reading me you probably signed up for that in the first place.
-
-we intend on making something coherent when we sort ourselves out, but we're playing catch-up right now.
 
 you can support us on [our ko-fi.](https://ko-fi.com/darkfireside)
 

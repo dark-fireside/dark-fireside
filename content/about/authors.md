@@ -6,8 +6,10 @@ draft: false
 
 call us hearth. we're not people. use sie/hir or it/its. 
 
-a wild mage, an angel of the void.
-a witch, a vengeful ghost.
-a changeling, a doll built of paint and fangs.
+a wild mage, an angel of the void. LH
+
+a witch, a vengeful ghost. RH
+
+a changeling, a doll built of paint and fangs. T
 
 agents of an unquenchable flame.
