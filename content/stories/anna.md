@@ -5,7 +5,7 @@ draft: false
 series: "moon's song"
 number: "000"
 warnings:
-author:
+author: sath
 ---
 
 the first thing any good story needs is a storyteller. isn't that right?
