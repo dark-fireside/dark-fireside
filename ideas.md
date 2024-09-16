@@ -1,1 +1,1 @@
-- [ ] update your bio on your website to include wild magic, remove old alter info
+- [X] update your bio on your website to include wild magic, remove old alter info
