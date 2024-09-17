@@ -14,7 +14,9 @@ hemisphere theory taken from ziz.
 accidentally discovered unihemispheric sleep while attempting to wake-induce a lucid dream.
 
 ## seperation
-pretty sure hemispheres cry independently- chirality isn't reversed for this though
+pretty sure hemispheres cry independently- chirality isn't reversed for this though- rh was crying from our right eye.
 revealed as a consequence of accidentally discovering unihemispheric sleep, though we're pretty sure this applies to daily life too
 
 rh does not remember the dream it was crying about. will attempt to discover when we both end up lucid.
+
+presumably evidence of a block we've built that we would like to bring down.
