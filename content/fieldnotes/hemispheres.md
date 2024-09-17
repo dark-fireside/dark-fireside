@@ -2,10 +2,10 @@
 title: 'hemispheres'
 date: 2024-09-17T09:37:09-05:00
 draft: false
-series: field notes
-tags: notes
+series: fieldnotes
+tags: ["notes"]
 warnings:
-author: robin, h
+author: "robin, h"
 ---
 
 hemisphere theory taken from ziz.
