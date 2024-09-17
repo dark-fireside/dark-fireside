@@ -1,5 +1,5 @@
 ---
-title: 'field notes: {{ replace .Name "-" " " | lower }}'
+title: '{{ replace .Name "-" " " | lower }}'
 date: {{ .Date }}
 draft: true
 series: field notes
