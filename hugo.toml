@@ -14,6 +14,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     description = "personal blog, garden, weapon." # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "/favicon.png"             # path to favicon (defaults to favicon.png)
+    front_page_content = ["posts", "stories"]
 
     # MENU PLACEHOLDER
     # Menu dict keys:
