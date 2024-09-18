@@ -8,9 +8,9 @@ warnings:
 author: h, robin, sath
 ---
 
-okay so this isn't a story about how life came to exist as like a thing, you know
-billions of years of gas, dead rock and amino acids turning to will is its own thing, and miraculous in its own right
-but i wanna talk about something that happened about another two billion years after that
+okay so this isn't a story about how life came to exist as like a thing, you know.
+billions of years of gas, dead rock and amino acids turning to will is its own thing, and miraculous in its own right.
+but i wanna talk about something that happened about another two billion years after that.
 
 at the bottom of the ocean there is a colony of cells.
 this isn't all that uncommon. chemical soup was one of the earliest places you could find life, and even now, long after the cyanobacteria and the purple guys left for the surface, you can find folks living down here.
