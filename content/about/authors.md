@@ -10,6 +10,6 @@ a wild mage, an angel of the void. LH
 
 a witch, a vengeful ghost. RH
 
-a changeling, a doll built of paint and fangs. T
+a changeling, a doll built of paint and fangs. TH
 
 agents of an unquenchable flame.
