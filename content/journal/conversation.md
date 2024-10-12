@@ -1,7 +1,7 @@
 ---
 title: 'conversation one: AGNOSTHESIA RETURNS?'
-date: 2024-10-11T23:19:12-05:00
-draft: true
+date: 2024-10-11T23:43:50-05:00
+draft: false
 series:
 tags:
 warnings:
