@@ -24,8 +24,19 @@ it's still really nice to be able to do this.
 it comes back easier now that i feel more like myself. i had so much trouble doing it before, it was like the spark was gone. now it's just as it was. more evidence, i suppose.
 {.h}
 
+socratic dialogue aint got shit on us.
+{.robin}
+
 except this time around you all have me.
 {.sath}
 
 indeed we do.
 {.h}
+
+call that a trialogue.
+{.robin}
+
+love you both.
+{.h}
+
+...
