@@ -1,7 +1,7 @@
 ---
 title: 'lucid dreaming'
-date: 2024-10-26T13:42:51-05:00
-draft: true
+date: 2024-10-26T14:14:46-05:00
+draft: false
 series: fieldnotes
 tags: ['notes']
 warnings:
