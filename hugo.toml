@@ -1,7 +1,7 @@
 baseURL = "https://dark-fireside.xyz"
 languageCode = "en-us"
 theme = "poison"
-paginate = 10
+pagination.pagerSize = 10
 # canonifyURLs = true
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
