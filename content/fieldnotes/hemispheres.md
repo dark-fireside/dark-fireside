@@ -8,7 +8,8 @@ warnings:
 author: "robin, h"
 ---
 
-hemisphere theory taken from ziz.
+hemisphere theory taken from ~~ziz~~ *char/astria*. 
+> i love misattributions aren't they fun
 
 ## sleep
 accidentally discovered unihemispheric sleep while attempting to wake-induce a lucid dream.
