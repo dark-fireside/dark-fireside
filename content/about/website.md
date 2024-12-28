@@ -6,7 +6,7 @@ warnings:
 author:
 ---
 ## about the website
-consider this entire thing a work in progress as we process some of the things we stole from sinceriously, and [ra](https://voidgoddess.org).
+consider this entire thing a work in progress as we process some of the things we stole from [the simurgh](https://sinceriously.fyi), and [ra](https://voidgoddess.org).
 
 this is probably going to be a pretty mixed bag, and include a lot of stumbling around in the dark. course if you're reading me you probably signed up for that in the first place.
 
