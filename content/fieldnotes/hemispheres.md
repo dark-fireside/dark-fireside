@@ -10,6 +10,7 @@ author: "robin, h"
 
 hemisphere theory taken from ~~[ziz](https://sinceriously.fyi)~~ *[char/astria](https://everythingtosaveit.how)*. 
 > i love misattributions aren't they fun
+{.robin}
 
 ## sleep
 accidentally discovered unihemispheric sleep while attempting to wake-induce a lucid dream.
