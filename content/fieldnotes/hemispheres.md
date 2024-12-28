@@ -14,7 +14,9 @@ hemisphere theory taken from ~~ziz~~ *char/astria*.
 ## sleep
 accidentally discovered unihemispheric sleep while attempting to wake-induce a lucid dream.
 
-## seperation
+> have only managed to make this work once so far, need to look into how GG was doing it
+
+## separation
 pretty sure hemispheres cry independently- chirality isn't reversed for this though- rh was crying from our right eye.
 revealed as a consequence of accidentally discovering unihemispheric sleep, though we're pretty sure this applies to daily life too
 
