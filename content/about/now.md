@@ -6,7 +6,10 @@ draft: false
 
 current targets:
 
-- scrape together enough income to kick off some kind of feedback loop for the cule. need to get out of the state.
-    - you can help, dear reader! support us on [our ko-fi](https://ko-fi.com/darkfireside)!
+- have some income, putting it towards building a vehicle to live in, negating thumbs on scales.
+    - you can help, dear reader! if you like what we write, support us on [our ko-fi](https://ko-fi.com/darkfireside)!
 - lucid dreaming
     - we *will* leverage every available surface and not even god can stop us
+    - update: regular lucidity achieved, working on stabilization
+- learning C
+    - exactly what it says on the tin.
