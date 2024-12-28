@@ -8,7 +8,7 @@ warnings:
 author: "robin, h"
 ---
 
-hemisphere theory taken from ~~ziz~~ *char/astria*. 
+hemisphere theory taken from ~~[ziz](https://sinceriously.fyi)~~ *[char/astria](https://everythingtosaveit.how)*. 
 > i love misattributions aren't they fun
 
 ## sleep
