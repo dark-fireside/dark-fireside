@@ -2,7 +2,7 @@
 title: "rat"
 series: shifterband
 number: 000
-tags: [ "our writing", 'shifterband' ]
+tags: [ 'shifterband', "fiction" ]
 date: 2024-12-28T13:50:02-06:00
 author: "robin"
 draft: false
