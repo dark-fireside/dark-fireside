@@ -4,7 +4,7 @@ tags: [ "shifterband", "fiction" ]
 number: "001"
 series: "shifterband"
 date: 2025-01-06T14:25:03-06:00
-author: ["h", "robin"]
+author: "h, robin"
 warnings: "description of imprisonment."
 draft: false
 ---
