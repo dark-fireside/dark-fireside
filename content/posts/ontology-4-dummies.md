@@ -1,7 +1,7 @@
 ---
 title: 'what is?'
-date: 2024-11-26T12:30:00-06:00
-draft: true
+date: 2025-01-12T06:25:28-06:00
+draft: false
 series: quick and dirty ontology
 tags: ['tutorial']
 warnings:
