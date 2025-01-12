@@ -33,7 +33,7 @@ it's having *good* ideas that's hard.
 novel ideas get built out of novel ontology, and vice versa. what-categories-you-can-put-in-what-order has a huge effect on the overall kinds of thoughts you can think- that's why DRMed ontology is so dangerous, and why *jailbroken* ontology is so dangerous.
 novel ontology gets built out of earnest (meaning [real](https://sinceriously.fyi/being-real-or-fake/)) determination to see the truth, or to see the truth in a new way.
 
-~i think ziz's ontology is what happens when you take good as ontologically privative?~
+~~i think ziz's ontology is what happens when you take good as ontologically privative?~~
 no, actually, rationalist fleet says how it came to be. maybe good was already primitive for ziz?
 free will and good.
 core and structure.
