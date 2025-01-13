@@ -8,11 +8,11 @@
   content: "."
 }
 
-.robin {
+.ana {
   color: #3b5ddb;
 }
 
-.robin::before {
+.ana::before {
   content: "."
 }
 
