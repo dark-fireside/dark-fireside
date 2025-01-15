@@ -8,9 +8,9 @@ warnings: homelessness
 author: "sath, ana, h"
 ---
 
-> VOICE: KNIGHT OF CUPS
+> VOICE: KNIGHT OF CUPS.
 > {{.sath}}
-> CHARACTER: SIX OF WANDS
+> CHARACTER: SIX OF WANDS.
 > {{.sath}}
 
 you unplug your headset with a sigh, stretching to relieve the vague tension of sitting in a chair all day.
