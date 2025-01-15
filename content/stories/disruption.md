@@ -5,11 +5,13 @@ draft: false
 series: 
 number: 
 warnings: homelessness
-author: ["sath","ana","h"]
+author: "sath, ana, h"
 ---
 
-VOICE: KNIGHT OF CUPS
-CHARACTER: SIX OF WANDS
+> VOICE: KNIGHT OF CUPS
+> {{.sath}}
+> CHARACTER: SIX OF WANDS
+> {{.sath}}
 
 you unplug your headset with a sigh, stretching to relieve the vague tension of sitting in a chair all day.
 it's been another good day for you. the tech is finally up to snuff, and people are taking notice. you might even get the chance to take a break soon, and *that,* combined with the security from the money now flowing in, seems *excellent.*
