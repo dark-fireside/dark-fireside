@@ -22,4 +22,5 @@ my attempt to build a halo when i was 12-ish collapsed because it's just... genu
 
 i think he vexes like. eg noam chomsky, maybe. (not that chomsky was good, i have no idea what he did other than write some more-informed-about-state-reality books. maybe his praxis was really good and he was just good at deception. or maybe he didn't do a damn thing.) update: neither of these was true, he was arrested multiple times for his activism. seems not to understand consequentialism, though. "no one can lead a totally moral life, everyone is doing things they know to be evil in order to survive, therefor vegans are hypocrites." sus. on top of like. picking a field of academic institutional study rather than continue to use the knowledge he picked up. hypothesis is single good. plus he's dead anyway.
 
-
+## revanant
+veronica sawyer from heathers (the musical production, never seen the film) checks some boxes for depiction of a revenant send post 
