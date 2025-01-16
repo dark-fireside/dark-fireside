@@ -18,9 +18,12 @@ actually no. sorry. you can put hope in an empire. or a god.
 
 my attempt to build a halo when i was 12-ish collapsed because it's just... genuinely not necessary for my existence. 
 
-- eric winestine? seems unresolved right up until the point the empire is dead. "oh no, the state is like. for important stuff, you can't question the powers that be too deeply else risk collapse!"
+- eric winestine? seems unresolved right up until the point the empire is dead. "oh no, the state is like. for important stuff, you can't question the powers that be too deeply else risk collapse!" 
 
-i think he vexes like. eg noam chomsky, maybe. (not that chomsky was good, i have no idea what he did other than write some more-informed-about-state-reality books. maybe his praxis was really good and he was just good at deception. or maybe he didn't do a damn thing.) update: neither of these was true, he was arrested multiple times for his activism. seems not to understand consequentialism, though. "no one can lead a totally moral life, everyone is doing things they know to be evil in order to survive, therefor vegans are hypocrites." sus. on top of like. picking a field of academic institutional study rather than continue to use the knowledge he picked up. hypothesis is single good. plus he's dead anyway.
+> edit: no, nvm. he's definitely a vamp. ugh. could have just gone with initial impression on that one.
+> {.ana}
 
-## revanant
-veronica sawyer from heathers (the musical production, never seen the film) checks some boxes for depiction of a revenant send post 
+i think he vexes like. eg noam chomsky, maybe. seems like he 'wants' really bad to explain state-level power dynamics and other fuckoff huge forces that control people's lives, but then subs in evil as a reason for doing that.
+
+(not that chomsky was good, i have no idea what he did other than write some more-informed-about-state-reality books. maybe his praxis was really good and he was just good at deception. or maybe he didn't do a damn thing.) update: neither of these was true, he was arrested multiple times for his activism. seems not to understand consequentialism, though. "no one can lead a totally moral life, everyone is doing things they know to be evil in order to survive, therefor vegans are hypocrites." sus for a guy who knows how praxis works. hypothesis is single good. plus he's dead anyway.
+
