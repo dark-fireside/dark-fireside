@@ -1,7 +1,7 @@
 ---
 title: 'hemispheres'
 date: 2024-09-17T09:37:09-05:00
-draft: false
+draft: true
 series: fieldnotes
 tags: ["notes"]
 warnings:
