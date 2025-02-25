@@ -4,6 +4,7 @@ date: {{ .Date }}
 draft: true
 series:
 tags:
+- journal
 warnings:
 author:
 ---

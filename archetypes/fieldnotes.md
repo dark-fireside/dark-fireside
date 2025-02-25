@@ -3,7 +3,8 @@ title: '{{ replace .Name "-" " " | lower }}'
 date: {{ .Date }}
 draft: true
 series: fieldnotes
-tags: ['notes']
+tags: 
+- notes
 warnings:
 author:
 ---
