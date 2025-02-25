@@ -25,7 +25,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     menu = [
         {Name = "about", URL = "/about/", HasChildren = false},
         {Name = "hey. want to go roast marshmallows?", URL = "/stories/", HasChildren = false},
-        {Name = "cc", URL = "/glossary/", HasChildren = false},
+        {Name = "ss", URL = "/glossary/", HasChildren = false},
         {Name = "field notes", URL = "/fieldnotes/", HasChildren = false},
         {Name = "blog", URL = "/posts/", HasChildren = true, Limit = 5},
     ]
