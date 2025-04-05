@@ -1,10 +1,10 @@
 /* Empty css file that users can override in their own /assets/css/custom.css file */
-.h {
+.raena {
   color: #6e9971;
   padding-left: 20px
 }
 
-.h::before {
+.raena::before {
   content: "."
 }
 
