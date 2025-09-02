@@ -7,7 +7,7 @@ draft: false
 call us morrigan. we're not people. use sie/hir or it/its. 
 
 \[ana, robin]: a wild mage, an angel of the void. LH
-{.ana}
+{.robin}
 
 \[raena]: a witch, a vengeful ghost. RH
 {.raena}

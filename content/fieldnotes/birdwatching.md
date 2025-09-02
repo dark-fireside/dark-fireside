@@ -21,7 +21,7 @@ my attempt to build a halo when i was 12-ish collapsed because it's just... genu
 - eric winestine? seems unresolved right up until the point the empire is dead. "oh no, the state is like. for important stuff, you can't question the powers that be too deeply else risk collapse!" 
 
 > edit: no, nvm. he's definitely a vamp. ugh. could have just gone with initial impression on that one.
-> {.ana}
+> {.robin}
 
 
 
