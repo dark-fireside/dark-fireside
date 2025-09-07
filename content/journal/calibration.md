@@ -35,6 +35,8 @@ the witch groans, a kind of pained agreement. the angel gets its port open, plug
 ...can we just leave next time? can we just- say that we're bored and go? please?
 {.raena}
 
-the angel nods, and leans against the witch's shoulder. a shudder passes through her body, and she curls into the angel's side, fingers automatically finding the contacts embedded under the angel's second pair of shoulder blades, each with its counterpart in the tip of one of its witch's fingers. handshake. a twin pair of gasps. 
+the angel nods, and leans against the witch's shoulder. a shudder passes through her body, and she curls into the angel's side, fingers automatically finding the contacts embedded under the angel's second pair of shoulder blades, each with its counterpart in the tip of one of its witch's fingers. 
+
+**handshake.** a twin pair of gasps. 
 
 a small smirk crosses the angel's face, and it pulls ræna securely against itself, and returns to its work.
