@@ -24,3 +24,14 @@
 .sath::before {
   content: "."
 }
+
+.post-title {
+}
+
+.post-subtitle {
+  margin-top: 0px;
+  padding-top: -10px;
+  padding-bottom: .2em;
+  color: #909090;
+  font-style: italic;
+}

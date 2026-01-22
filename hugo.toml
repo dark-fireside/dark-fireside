@@ -109,6 +109,7 @@ text_color_dark = "#EEE"                     # default is #EEE
 series = 'series'
 tags = 'tags'
 warnings = 'warnings'
+subtitle = 'subtitle'
 
 
 [markup]
