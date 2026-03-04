@@ -1,4 +1,5 @@
 baseURL = "https://dark-fireside.xyz"
+defaultContentLanguage = 'en'
 languageCode = "en-us"
 theme = "poison"
 pagination.pagerSize = 10
@@ -8,6 +9,9 @@ pluralizelisttitles = false # removes the automatically appended "s" on sidebar 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
 
+[outputs]
+home = ['html', 'rss']
+
 [params]
 brand = "dark fireside"                           # name of your site - appears in the sidebar
 brand_image = "/images/system.png"                # path to the image shown in the sidebar
@@ -15,6 +19,7 @@ description = "personal blog, garden, labyrinth." # Used as default meta descrip
 dark_mode = true                                  # optional - defaults to false
 favicon = "/favicon.png"                          # path to favicon (defaults to favicon.png)
 front_page_content = ["posts", "stories"]
+
 
 # MENU PLACEHOLDER
 # Menu dict keys:
@@ -29,8 +34,9 @@ menu = [
     { Name = "gallery", URL = "/gallery/", HasChildren = false },
     { Name = "glossary ", URL = "/glossary/", HasChildren = false },
     { Name = "field notes", URL = "/fieldnotes/", HasChildren = false },
-    { Name = "blog", URL = "/posts/", HasChildren = true, Limit = 5 },
+    { Name = "blog", URL = "/posts/", HasChildren = false, Limit = 5 },
 ]
+
 
 # Links to your socials.  Comment or delete any you don't need/use. 
 # discord_url = "https://discord.com"
