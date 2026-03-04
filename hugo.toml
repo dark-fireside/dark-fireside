@@ -11,6 +11,7 @@ pluralizelisttitles = false # removes the automatically appended "s" on sidebar 
 
 [outputs]
 section = ['html', 'rss']
+home = ['html', 'rss']
 
 [params]
 brand = "dark fireside"                           # name of your site - appears in the sidebar
