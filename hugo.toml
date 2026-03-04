@@ -10,7 +10,7 @@ pluralizelisttitles = false # removes the automatically appended "s" on sidebar 
 # disqusShortname = "yourDisqusShortname"
 
 [outputs]
-home = ['html', 'rss']
+section = ['html', 'rss']
 
 [params]
 brand = "dark fireside"                           # name of your site - appears in the sidebar
