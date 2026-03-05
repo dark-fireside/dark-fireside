@@ -37,6 +37,16 @@ menu = [
     { Name = "blog", URL = "/posts/", HasChildren = false, Limit = 5 },
 ]
 
+badges = [
+    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+]
+
 
 # Links to your socials.  Comment or delete any you don't need/use. 
 # discord_url = "https://discord.com"
