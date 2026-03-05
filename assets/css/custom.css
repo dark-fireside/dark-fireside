@@ -35,3 +35,28 @@
   color: #909090;
   font-style: italic;
 }
+
+@font-face {
+  font-family: 'Livingstone';
+  font-style: normal;
+  src: local(''),
+       url('/fonts/Livingst.ttf') format('truetype'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+.sidebar-about h1 {
+  font-family: "Livingstone", normal;
+  font-size: 1.6em;
+}
+
+.sidebar-about img {
+  height: 160px;
+  width: 160px;
+}
+
+.bttn-light-dark {
+  margin: 0.5em;
+}
+
+.heading {
+  margin-top: 0em;
+}
