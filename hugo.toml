@@ -39,12 +39,9 @@ menu = [
 
 badges = [
     { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
-    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
-    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
-    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
-    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
-    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
-    { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
+    { ImageURL = "/badges/anybrow.gif", IsNotLink = true },
+    { ImageURL = "/badges/starlight_aerosystems.gif", LinkURL = "https://starlight-aerosystems.neocities.org/" },
+    { ImageURL = "/badges/unreality.gif", IsNotLink = true },
 ]
 
 
