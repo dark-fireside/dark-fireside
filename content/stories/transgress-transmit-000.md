@@ -3,7 +3,7 @@ title: "a bargain is struck, a life is lost, a life is begun"
 number: 000
 date: 2026-04-27T01:20:33-05:00
 draft: false
-warnings: implied offscreen rape, sci-fi violence
+warnings: implied offscreen rape, sci-fi and police violence
 series: "TRANS/GRESS//TRANS/MIT"
 ---
 
