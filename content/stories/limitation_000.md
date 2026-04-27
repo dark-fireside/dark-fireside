@@ -4,7 +4,7 @@ number: 000
 date: 2026-04-27T01:20:33-05:00
 draft: false
 warnings: implied offscreen rape, sci-fi violence
-series: "trans/gress//trans/mit"
+series: "TRANS/GRESS//TRANS/MIT"
 ---
 
 The rain sheeted over the translucent skin separating me from the outside world. The stars, only faintly visible, tinged purple over my head, and rippled and swam as the water slid past. As tents went, it wasn't half bad. Adjustable opacity, insulated. Just earlier this week I had fabricated some little beasties to metabolize the smoke from the low fire, and judging from how I wasn't suffocating they seemed to be taking hold. Gosh, I only had to bend down a little to get through the flap. Bela, on the other hand, practically had to squat. 
