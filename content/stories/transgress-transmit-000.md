@@ -98,7 +98,7 @@ And then they're running again, and the movement of their bodies is almost enoug
 
 ---
 
-The alarm chirps and you roll out of her bed, flat onto the ground, right onto your back. The sun's coming through the windows and the building is humming to life under you, a bass pulse in her skull and your chest. Most nights you don't remember your dreams, and you're thankful for that. Both options are unappealing. You closes your eyes, pushing back the wave of nausea that threatens to send you running for the bathroom, and sit up.
+The alarm chirps and you roll out of your bed, flat onto the ground, right onto your back. The sun's coming through the windows and the building is humming to life under you, a bass pulse in your skull and your chest. Most nights you don't remember your dreams, and you're thankful for that. Both options are unappealing. You close your eyes, pushing back the wave of nausea that threatens to send you running for the bathroom, and sit up.
 
 *One more day. One more, and then you're done.*
 
@@ -106,7 +106,7 @@ Of course, you've told yourself the same thing every day for a little over two y
 
 *It took you two years, but you finally did something.*
 
-Maybe the fear dies back with time. Or maybe it won't let you go until whatever it is the assassin is going to do happens. It still doesn't feel quite real. Habit, you check your hard memory. Pins and needles. The lethargy is leaving you, you can push yourself up, and a poke at your internals tells you they're they haven't yet, but they're just about to hand back over your perms. You make breakfast while you wait. Coffee. Biscuits. Soy protein patties, you'd forgotten you ordered the kind with seasoning this time.
+Maybe the fear dies back with time. Or maybe it won't let you go until whatever it is the assassin is going to do happens. It still doesn't feel quite real. Habit, you check your hard memory. Pins and needles. The lethargy is leaving you, you can push yourself up, and a poke at your internals tells you they're just about to hand back over your perms. You make breakfast while you wait. Coffee. Biscuits. Soy protein patties, you'd forgotten you ordered the kind with seasoning this time.
 
 You're nearly done by the time the rental company actually hands you the rest of your brain back, and you feel yourself come fully alive again. The shock of information, hard memory, your comms, the small tickles of feedback from the other parts of your home network. White walls bloom into your drawings and thoughts, dull and glowing paints intertwined, ceiling vanishing into today's projection of the sky. The building greets you with its customary gentle tap of acknowledgement. You send one back.
 
