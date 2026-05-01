@@ -28,7 +28,7 @@
   content: "."
 }
 
-.post-title {
+.post-title,.title {
   font-family: "Livingstone", normal;
   margin-bottom: -0.2em;
 }
