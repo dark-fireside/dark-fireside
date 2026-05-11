@@ -1,67 +1,71 @@
 /* Empty css file that users can override in their own /assets/css/custom.css file */
 .raena {
-  color: #6e9971;
-  /* color: #389c3f; */
-  padding-left: 20px
+	color: #6e9971;
+	/* color: #389c3f; */
+	padding-left: 20px;
 }
 
 .raena::before {
-  content: "."
+	content: ".";
 }
 
 .robin {
-  color: #3b5ddb;
-  /* color: #2450f2 ; */
+	color: #3b5ddb;
+	/* color: #2450f2 ; */
 }
 
 .robin::before {
-  content: "."
+	content: ".";
 }
 
 .sath {
-  color: #AD6666;
-  /* color: #d04343; */
-  padding-left: 40px
+	color: #ad6666;
+	/* color: #d04343; */
+	padding-left: 40px;
 }
 
 .sath::before {
-  content: "."
+	content: ".";
 }
 
-.post-title,.title {
-  font-family: "Livingstone", normal;
-  margin-bottom: -0.2em;
+/*useless comment*/
+.post-title,
+.title {
+	font-family: "Livingstone", normal;
+	margin-bottom: -0.2em;
 }
 
 .post-subtitle {
-  margin-top: 0px;
-  padding-top: -10px;
-  padding-bottom: .2em;
-  color: #909090;
-  font-style: italic;
+	margin-top: 0px;
+	padding-top: -10px;
+	padding-bottom: 0.2em;
+	color: #909090;
+	font-style: italic;
 }
 
 @font-face {
-  font-family: 'Livingstone';
-  font-style: normal;
-  src: local(''),
-       url('/fonts/Livingst.ttf') format('truetype'); /* Chrome 26+, Opera 23+, Firefox 39+ */
+	font-family: "Livingstone";
+	font-style: normal;
+	src:
+		local(""),
+		url("/fonts/Livingst.ttf") format("truetype");
+	/* Chrome 26+, Opera 23+, Firefox 39+ */
 }
 
 .sidebar-about h1 {
-  font-family: "Livingstone", normal;
-  font-size: 1.6em;
+	font-family: "Livingstone", normal;
+	font-size: 1.6em;
 }
 
 .sidebar-about img {
-  height: 160px;
-  width: 160px;
+	height: 160px;
+	width: 160px;
 }
 
 .bttn-light-dark {
-  margin: 0.3em;
+	margin: 0.3em;
 }
 
 .heading {
-  margin-top: 0em;
+	margin-top: 0em;
 }
