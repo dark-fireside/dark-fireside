@@ -16,6 +16,6 @@ Series of photos taken in Ravenna Park, with a Canon Rebel.
 
 ![white woman in a tshirt, jeans, and hiking boots squats on a rock, facing away from the camera and towards the trees in the background.](/images/ravenna-park/squat-on-a-rock.jpg)
 
-![A squirrel sits on a sunlit log, gazing at the camera.](/images/ravenna-park/squirrel-ravena.jpg)
+![A squirrel sits on a sunlit log, gazing at the camera.](/images/ravenna-park/squirrel-ravenna.jpg)
 
 
