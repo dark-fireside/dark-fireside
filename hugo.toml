@@ -42,6 +42,7 @@ badges = [
     { ImageURL = "/badges/anybrow.gif", IsNotLink = true },
     { ImageURL = "/badges/starlight_aerosystems.gif", LinkURL = "https://starlight-aerosystems.neocities.org/" },
     { ImageURL = "/badges/unreality.gif", IsNotLink = true },
+    { ImageURL = "/badges/tom-scott.png", IsNotLink = true },
 ]
 
 
