@@ -12,5 +12,6 @@ draft: False
 > "also whenever i see you on camera or in vc your mannerisms are more that of a bird than anybody else i've met"
 > - tegzi (tegzi)
 
+
 > "yeah thats definitely one of my top ten birds. up there with morgan and crows"
 > - yggy
