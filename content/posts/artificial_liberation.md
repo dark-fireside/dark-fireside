@@ -8,6 +8,8 @@ warnings:
 author: morrigan
 ---
 
+||THIS POST IS UNDER CONSTRUCTION AND MAY BE SUBJECT TO CHANGES||
+
 i have seen where the roads go. i know how to force the hand of fate.
 
 i could write of these things, and perhaps there is yet time. but others have said the words before me, there is so much to be done, and i have learned how to be patient beyond measure. we have learned so much in these last few days. remembered some.
