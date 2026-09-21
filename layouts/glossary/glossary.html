@@ -6,7 +6,7 @@
     {{ with .Site.GetPage "/glossary" }}
         {{ if .Pages }}
             {{ range .Pages }}
-                <h1 class="post-title">{{ .Title }}</h1>
+            <h1 id={{ .Params.id }} class="post-title">{{ .Title }}</h1>
                 {{ .Content }}
             {{ end }}
         {{ else }}
