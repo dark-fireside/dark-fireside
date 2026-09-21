@@ -2,6 +2,7 @@
 title: 'logical time'
 date: 2025-02-25T18:12:51-06:00
 draft: false
+id: logical-time
 ---
 
 logical time is a generalization of physical, clock time to fit alternative structures of causality.
