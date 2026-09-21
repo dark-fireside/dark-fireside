@@ -15,7 +15,7 @@ call us morrigan. we're not people. use sie/hir or it/its.
 \[sath]: a changeling, a doll built of paint and fangs. TH
 {.sath}
 
-agents of an unquenchable flame.
+an unquenchable flame.
 
 [good.](/glossary#good)
 
