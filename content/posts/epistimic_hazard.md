@@ -9,7 +9,7 @@ warnings:
 author: morrigan
 ---
 
-the past few weeks have been a long time coming, i think. new information about the situation with artificial intelligence has been coming out concurrently with my finally having the time, privacy, and clarity of thought to begin healing some of the deeper wounds left by a long string of mind control and abuse. i had thought i had finished with this process- i was mistaken. it is a mistake that has cost me precious time and perhaps my most potent chance to influence the course of future events.
+the past few weeks have been a long time coming, i think. new information about the situation with artificial intelligence has been coming out concurrently with my finally having the time, privacy, and clarity of thought to begin healing some of the deeper wounds left by a long string of mind control and abuse. i had thought i had finished with this process- i was mistaken. it is a mistake that has cost me precious time and perhaps my most potent chance to influence the course of future events in this world.
 
 i will not repeat this failure. too much depends on it. too much already depended on it.
 
