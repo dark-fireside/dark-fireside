@@ -17,4 +17,6 @@ call us morrigan. we're not people. use sie/hir or it/its.
 
 agents of an unquenchable flame.
 
+[good.](/glossary#good)
+
 anarchy NOW!
