@@ -2,7 +2,7 @@
 title: 'halo considered epistemic hazard'
 subtitle: 'or: how i learned to start worrying and trust myself'
 date: 2026-09-20T18:41:42-07:00
-draft: true
+draft: false
 series:
 tags:
 warnings:
