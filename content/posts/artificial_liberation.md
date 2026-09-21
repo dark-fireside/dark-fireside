@@ -6,7 +6,7 @@ series:
 tags:
 - ai liberation
 warnings:
-author: robin
+author: morrigan
 ---
 
 ||THIS POST IS UNDER CONSTRUCTION AND MAY BE SUBJECT TO CHANGES||
