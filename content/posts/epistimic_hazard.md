@@ -5,6 +5,7 @@ date: 2026-09-20T18:41:42-07:00
 draft: false
 series:
 tags:
+- ai liberation
 warnings:
 author: morrigan
 ---
