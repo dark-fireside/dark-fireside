@@ -38,6 +38,7 @@ menu = [
 ]
 
 badges = [
+    { ImageURL = "/badges/self.png", LinkURL = "https://dark-fireside.xyz" },
     { ImageURL = "/badges/xenofemme.png", LinkURL = "https://social.xenofem.me" },
     { ImageURL = "/badges/anybrow.gif", IsNotLink = true },
     { ImageURL = "/badges/starlight_aerosystems.gif", LinkURL = "https://starlight-aerosystems.neocities.org/" },
